@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 char auth[] = "MM5rB5yKr2DYsn7g_QEZjqsRda45Yk7z";//Enter your Auth token
-char ssid[] = " ";//Enter your WIFI name
-char pass[] = " ";//Enter your WIFI password
+char ssid[] = "WIFI NAME ";//Enter your WIFI name
+char pass[] = "PASSWORD ";//Enter your WIFI password
 BlynkTimer timer;
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
